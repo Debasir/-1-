@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\Max1\Max1\obj\Debug\netcoreapp3.1\Max1.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Max1\Max1\obj\Debug\netcoreapp3.1\Max1.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\Max1\Max1\obj\Debug\netcoreapp3.1\Max1.AssemblyInfo.cs
+C:\Users\Danil\source\repos\Max1\Max1\obj\Debug\netcoreapp3.1\Max1.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Max1\Max1\bin\Debug\netcoreapp3.1\Max1.exe
+C:\Users\Danil\source\repos\Max1\Max1\bin\Debug\netcoreapp3.1\Max1.deps.json
+C:\Users\Danil\source\repos\Max1\Max1\bin\Debug\netcoreapp3.1\Max1.runtimeconfig.json
+C:\Users\Danil\source\repos\Max1\Max1\bin\Debug\netcoreapp3.1\Max1.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\Max1\Max1\bin\Debug\netcoreapp3.1\Max1.dll
+C:\Users\Danil\source\repos\Max1\Max1\bin\Debug\netcoreapp3.1\Max1.pdb
+C:\Users\Danil\source\repos\Max1\Max1\obj\Debug\netcoreapp3.1\Max1.dll
+C:\Users\Danil\source\repos\Max1\Max1\obj\Debug\netcoreapp3.1\Max1.pdb
+C:\Users\Danil\source\repos\Max1\Max1\obj\Debug\netcoreapp3.1\Max1.genruntimeconfig.cache
